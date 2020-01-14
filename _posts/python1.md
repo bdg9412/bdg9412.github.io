@@ -1,10 +1,10 @@
 ---
 layout: post
-title: First post!
+title: First python!
 image: /img/hello_world.jpeg
 ---
 
-기본 타입 과 변수
+#기본 타입 과 변수
 
 
 variable? space which save data
@@ -42,7 +42,7 @@ type 함수: 변수의 type을 알 수 있다.
 
 None: 아무런 값을 갖지 않을 때 변수로 만들 때 사용
 
-comparison operator: >, < , <=, >=, == [same], != [different]
+comparison operator: >, < , <=, >=, == same, != different
 
 
 calculation: +, -, *, '/ '몫 반환, '%' 나머지 반환, '**' 제곱 --> 기본적인 수학처럼 우선순위 존재

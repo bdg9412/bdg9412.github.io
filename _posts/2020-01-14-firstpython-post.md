@@ -1,0 +1,52 @@
+---
+layout: post
+title: First post!
+image: /img/hello_world.jpeg
+---
+
+기본 타입 과 변수
+
+
+variable? space which save data
+
+set value into the memory and set name
+
+name = data
+
+data type? int type, float type, str type boolen type
+
+
+대입 연산자( = ), 비교 연산자( == )
+
+
+comment? '#'을 입력하면 주석으로 처리
+
+
+print function? print out the value
+
+ex ) a = 1, b = 2, print(a, b) --> 1 2
+
+
+print 설정 = sep: 구분자, 출력할 변수 사이에서 구별하는 역할, end: 마지막에 출력할 문자열
+
+ex ) a = 1, b = 2, print(a, b, sep='!', end='*')
+
+
+variable naming? 숫자로 시작하는 이름 제외 --> 숫자에 변수처럼 값 할당 불가능
+
+reserved keywords 사용 불가 --> class, function 등등은 사용불가
+
+
+type 함수: 변수의 type을 알 수 있다.
+
+
+None: 아무런 값을 갖지 않을 때 변수로 만들 때 사용
+
+comparison operator: >, < , <=, >=, == [same], != [different]
+
+
+calculation: +, -, *, '/ '몫 반환, '%' 나머지 반환, '**' 제곱 --> 기본적인 수학처럼 우선순위 존재
+
+
+참고: 머신러닝부터 데이터분석 A ~Z
+
